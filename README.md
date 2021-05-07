@@ -1,4 +1,4 @@
-## Infix LMS
+## Course LMS
 Build skills with courses, certificates, and degrees online from world-class universities and companies.
 
 - Learn the latest skills.
