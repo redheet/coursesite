@@ -1,0 +1,2 @@
+[21-Apr-2021 09:59:23 Asia/Jakarta] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.27. in /home/rumahri1/app.rumah-riset.com/vendor/composer/platform_check.php on line 24
+[21-Apr-2021 10:00:24 Asia/Jakarta] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.27. in /home/rumahri1/app.rumah-riset.com/vendor/composer/platform_check.php on line 24
